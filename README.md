@@ -1,1 +1,1 @@
-# My-Selenium-training-assignments
+# Selenium-training-assignments
